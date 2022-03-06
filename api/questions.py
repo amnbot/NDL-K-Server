@@ -1,3 +1,5 @@
+import os
+
 from flask import Flask, make_response, request, Response
 from flask.json import jsonify
 from flask_restful import Api
@@ -12,7 +14,8 @@ from mvs.mv_question import SODOQuestion
 import firebase_admin
 from firebase_admin import credentials, auth
 
-cred = credentials.Certificate('ndl-k-65441-firebase-adminsdk-e8wo9-6d3eb8c7e1.json')
+cred_path = os.environ.get('NDL-K_CREDENTIALS')
+cred = credentials.Certificate(cred_path)
 """
 The SDK can also be initialized with no parameters. In this case, the SDK uses Google Application Default Credentials. Because default credentials lookup is fully automated in Google environments, with no need to supply environment variables or other configuration, this way of intializing the SDK is strongly recommeneded for applications running on Compute Engine, Kubernetes Engine, App Engine, and Cloud Functions.
 """
