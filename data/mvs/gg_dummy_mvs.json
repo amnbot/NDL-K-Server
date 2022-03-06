@@ -1,0 +1,68 @@
+{
+    "0": {
+        "Post": "Post",
+        "Release Date": "2015-01-14",
+        "Artist": "GFRIEND",
+        "Song Name": "Glass Bead",
+        "Korean Name": "\uc720\ub9ac\uad6c\uc2ac",
+        "Director": "ZANYBROS",
+        "Video": "https://youtu.be/IxnD5AViu6k",
+        "Type": "Girl",
+        "Release Type": "Major"
+    },
+    "1": {
+        "Post": "",
+        "Release Date": "2015-06-22",
+        "Artist": "GFRIEND",
+        "Song Name": "Me Gustas Tu",
+        "Korean Name": "\uc624\ub298\ubd80\ud130 \uc6b0\ub9ac\ub294",
+        "Director": "ZANYBROS",
+        "Video": "https://youtu.be/m-CKVr6Z1Tw",
+        "Type": "Girl",
+        "Release Type": "Major"
+    },
+    "2": {
+        "Post": "",
+        "Release Date": "2016-01-24",
+        "Artist": "GFRIEND",
+        "Song Name": "Rough",
+        "Korean Name": "\uc2dc\uac04\uc744 \ub2ec\ub824\uc11c",
+        "Director": "ZANYBROS",
+        "Video": "https://youtu.be/0VKcLPdY9lI",
+        "Type": "Girl",
+        "Release Type": "Major"
+    },
+    "3": {
+        "Post": "Post",
+        "Release Date": "2016-06-10",
+        "Artist": "GFRIEND",
+        "Song Name": "Navillera",
+        "Korean Name": "\ub108 \uadf8\ub9ac\uace0 \ub098",
+        "Director": "Kim 'Oui Kim' Seonguk",
+        "Video": "https://youtu.be/Se8bbsUFjC8",
+        "Type": "Girl",
+        "Release Type": "Major"
+    },
+    "4": {
+        "Post": "",
+        "Release Date": "2010-06-06",
+        "Artist": "Girl's Day",
+        "Song Name": "Tilt My Head",
+        "Korean Name": "\uac38\uc6b0\ub6b1",
+        "Director": "Dari Cho (FPK)",
+        "Video": "https://youtu.be/jGec7pMBvsk",
+        "Type": "Girl",
+        "Release Type": "Major"
+    },
+    "5": {
+        "Post": "",
+        "Release Date": "2010-06-21",
+        "Artist": "Girl's Day",
+        "Song Name": "How About Me",
+        "Korean Name": "\ub098\uc5b4\ub54c",
+        "Director": "",
+        "Video": "https://youtu.be/7cT7FAkQZ2Q",
+        "Type": "Girl",
+        "Release Type": "Minor"
+    }
+}
